@@ -1,2 +1,2 @@
 # Games
-# 1. Tic Tac Toe with GUI (Tkinter)
+ 1. Tic Tac Toe with GUI (Tkinter)
